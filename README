@@ -1,0 +1,14 @@
+Contact: Dongli Zhang (dongli.zhang0129@gmail.com)
+
+This is a set of Unix/Linux socket network programming projects.
+
+Assign 1: Multi-Thread and Multi-Process Echo and Time Services (C, TCP socket).
+
+Assign 2: UDP based FTP Service with TCP mechanism (C, UDP socket).
+
+Assign 3: Implementation of On-Demand Shortest-Hop Routing Protocol (C, PF_Packet socket, 10 Linux virtual machines).
+
+Assign 4: Implementation of IP Source Routing Protocol with Multicasting and ARP (IP raw socket, 10 Linux virtual machines).
+
+I will upload the comment soon............
+
