@@ -10,5 +10,6 @@ Assign 3: Implementation of On-Demand Shortest-Hop Routing Protocol (C, PF_Packe
 
 Assign 4: Implementation of IP Source Routing Protocol with Multicasting and ARP (IP raw socket, 10 Linux virtual machines).
 
-I will upload the comment soon............
+dhserver: simple multi-thread http server
 
+https: single https server
